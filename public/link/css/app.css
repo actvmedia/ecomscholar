@@ -1,0 +1,109 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-width: 375px;
+}
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
+.app-wrapper {
+  width: 100%;
+  max-width: 992px;
+}
+.app-header {
+  background: #1f1f1f;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.app-header .app-logo {
+  width: 64px;
+  height: auto;
+}
+.app-header .menu-item {
+  width: 34px;
+  margin-top:15px;
+}
+.profile-info .profile-image {
+  position: relative;
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+  border: 3px solid #ffffff;
+  border-radius: 15px;
+  margin-top:-85px;
+  z-index: 2;
+}
+.profile-banner {
+  max-height: 250px;
+  overflow: hidden;
+}
+.profile-border {
+  width: 100%;
+  position: relative;
+  padding: 10px;
+  background: #ffffff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-top:-10px;
+}
+.profile-info {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.profile-info .profile-name {
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #1f1f1f;
+}
+.profile-info p {
+  margin-bottom: 10px;
+}
+.profile-info .profile-links {
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom:25px;
+}
+.profile-btn {
+  width: 100%;
+  background: #1f1f1f !important;
+  color: #ffffff !important;
+  padding: 12px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.white-btn {
+
+}
+.profile-social {
+  padding: 50px 25px;
+}
+.profile-social .social-icon {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+  max-width: 84px;
+}
+.app-bottom-bar {
+  background:#ffffff;
+  padding: 25px;
+  box-shadow: 0px -8px 14px rgba(50, 50, 93, 0.08), 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.app-bottom-bar a {
+  font-size: 24px;
+  color: #1f1f1f !important;
+}
+
+@media(min-width: 991px) {
+  .app-wrapper {
+    margin: 0 auto;
+    border: 1px solid #f1f1f1;
+  }
+}
