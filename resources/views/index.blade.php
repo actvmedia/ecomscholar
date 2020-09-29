@@ -176,7 +176,7 @@
                 </div>
                 <div class="results-content" id="content-2">
                   <h4>This mentorship changed my life.</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam euismod lobortis feugiat. Donec eget erat pretium, vulputate risus vel, dictum turpis. Donec vulputate quam vel porta bibendum. Nam pellentesque posuere elit, at auctor quam efficitur a. In blandit est vel lectus eleifend, vitae elementum ipsum ultrices. Mauris posuere mauris sed finibus consequat. Integer rhoncus cursus massa, at dignissim arcu auctor condimentum.</p>
+                  <p>Partnering with the guys at EcomScholar absolutely changed my life. I started the mentorship my senior year of college and the expertise I learned allow me to apply it to a store and pay off all my studentloans. The tools, connections, and resources Chris and Alec give you are absolutely priceless. If you listen to their instructions and implement the ideas success is bound to happen.</p>
                 </div>
                 <div class="results-content" id="content-3">
                   <h4>I became financially free!</h4>
