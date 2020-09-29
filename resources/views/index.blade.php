@@ -94,7 +94,7 @@
   </div>
 
   <div class="counter-section">
-      <div class="counter-text"><span style="color:#313334;">$</span><span class="counter" data-count="5000000"></span></div>
+      <div class="counter-text"><span style="color:#313334;">$</span><span class="counter" data-count="10000000"></span></div>
       <div class="counter-subtext">Annual sales earned by students.</div>
   </div>
 
