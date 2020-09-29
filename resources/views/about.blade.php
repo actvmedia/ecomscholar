@@ -21,7 +21,7 @@
           <div class="row">
               <div class="col-md-6 profile-div">
                 <img src="img/alec-headshot.jpg" class="headshot-img">
-                <h2 class="text-center">Alec Doe</h2>
+                <h2 class="text-center">Alec Corum</h2>
                 <p>Alec is a self-taught entrepreneur and digital marketer with almost 3 years of experience in the ecommerce industry. After noticing the large number of “experts” that sell outdated information and show fake results in their courses, he started a private mentorship program in mid-2019. Given the success of his original students, he decided to expand the mentorship by bringing in his business partner Chris. Together, they have grown the mentorship program to what is now known as EcomScholar.</p>
               </div>
               <div class="col-md-6">
