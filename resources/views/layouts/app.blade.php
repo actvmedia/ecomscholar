@@ -106,7 +106,7 @@
                           <li><a href="/about">About Us</a></li>
                           <li><a href="/mentorship">Mentorship</a></li>
                           <li><a href="/results">Results</a></li>
-                          <li><a href="#">Terms</a></li>
+                          <li><a href="/terms">Terms</a></li>
                           <li><a href="#">Privacy</a></li>
                       </ul>
                     </div>
