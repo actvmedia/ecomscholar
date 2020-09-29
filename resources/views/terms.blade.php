@@ -2,7 +2,7 @@
 
 @extends('layouts.app')
 
-@section('title', 'terms')
+@section('title', 'Terms')
 
 
 @section('content')
